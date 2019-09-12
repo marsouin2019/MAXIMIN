@@ -1,0 +1,36 @@
+body {
+    padding-top: 56px;
+  }
+  
+  .bg-image-full {
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+
+.img{
+    background-image: url(http://placehold.it/200x200&text=Logo);
+    margin-left: 50px;
+}
+    
+h1{
+    text-align: center;
+    padding: 5px;
+    font-size: 20px;
+}
+
+h2{
+    text-align: center;
+} 
+
+p{
+text-align: center;
+}
+
+.ul{
+    list-style: none;
+}
+
+
