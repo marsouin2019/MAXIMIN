@@ -1,0 +1,25 @@
+.spa{
+    margin: 150px 350px;
+}
+
+.ajout{
+    height: 70px;
+    width: 70px;
+}
+
+.sup{
+    height: 70px;
+    width: 70px;
+}
+
+.mob{
+    height: 120px;
+    width: 250px;
+}
+
+.valider{
+    height: 100px;
+    width: 100px;
+    margin: 180px;
+    margin-left: 950px;
+}
